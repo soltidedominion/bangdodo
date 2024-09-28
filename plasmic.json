@@ -1,0 +1,130 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "rdovd5fdwEGGcFUFGtXxZy",
+      "projectApiToken": "Dic5Qdf0u4ZO9rNCSER8nCkPg4INkhX9zIBdJZhVRKSjY3MZsqWOotQtulI2vfBwYSTDjsJwPqsGZZ22VhhQ",
+      "projectName": "bangdodo",
+      "version": "latest",
+      "cssFilePath": "plasmic/bangdodo/plasmic.module.css",
+      "components": [
+        {
+          "id": "MnFaFWFgpFEE",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "rdovd5fdwEGGcFUFGtXxZy",
+          "renderModuleFilePath": "plasmic/bangdodo/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/bangdodo/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/"
+        }
+      ],
+      "icons": [],
+      "images": [
+        {
+          "id": "RH72GBR0VH5c",
+          "name": "photo_2024-09-28_15-10-12.jpg",
+          "filePath": "../public/plasmic/bangdodo/images/photo20240928151012Jpg.jpg"
+        },
+        {
+          "id": "7DjTO1w3lFUS",
+          "name": "photo_2024-09-28_15-10-09.jpg",
+          "filePath": "../public/plasmic/bangdodo/images/photo20240928151009Jpg.jpg"
+        },
+        {
+          "id": "cKyno_GAQiot",
+          "name": "round-blackandwhite-twitter-logo-isolated-transparent-background_125540-3696-removebg-preview.png",
+          "filePath": "../public/plasmic/bangdodo/images/roundBlackandwhiteTwitterLogoIsolatedTransparentBackground1255403696RemovebgPreviewPng.png"
+        },
+        {
+          "id": "1-ssAlaYnvtT",
+          "name": "telegram-icon-psd_1073073-402-removebg-preview.png",
+          "filePath": "../public/plasmic/bangdodo/images/telegramIconPsd1073073402RemovebgPreviewPng.png"
+        },
+        {
+          "id": "1s1QdXxDapsi",
+          "name": "Untitled design.png",
+          "filePath": "../public/plasmic/bangdodo/images/untitledDesignPng.png"
+        },
+        {
+          "id": "cOf4MvF--JvN",
+          "name": "Untitled design (1).png",
+          "filePath": "../public/plasmic/bangdodo/images/untitledDesign1Png.png"
+        },
+        {
+          "id": "dQye1r2pH6Xu",
+          "name": "Untitled design (2).png",
+          "filePath": "../public/plasmic/bangdodo/images/untitledDesign2Png.png"
+        },
+        {
+          "id": "YgrmwUxunQ19",
+          "name": "photo_2024-09-28_15-10-27.jpg",
+          "filePath": "../public/plasmic/bangdodo/images/photo20240928151027Jpg.jpg"
+        },
+        {
+          "id": "DzzDft-htb6c",
+          "name": "photo_2024-09-28_15-10-18.jpg",
+          "filePath": "../public/plasmic/bangdodo/images/photo20240928151018Jpg.jpg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "8c6AvtseJNhU",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "6WvJjM0gXETF",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "HQ-GRBb-Eosx",
+        "name": "Screen",
+        "projectId": "rdovd5fdwEGGcFUFGtXxZy",
+        "contextFilePath": "plasmic/bangdodo/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.331",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.331/dist/plasmic.schema.json"
+}

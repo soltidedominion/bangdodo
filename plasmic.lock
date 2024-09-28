@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "projectId": "rdovd5fdwEGGcFUFGtXxZy",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "HQ-GRBb-Eosx",
+          "checksum": "0600b9b2c71a03004cf24c5f3e3f9ef1"
+        },
+        {
+          "assetId": "rdovd5fdwEGGcFUFGtXxZy",
+          "type": "projectCss",
+          "checksum": "97b87c62d8bd1cd3092057356f03fb53"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "MnFaFWFgpFEE",
+          "checksum": "49a6785311adbaf7411c21a203493fd7"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "MnFaFWFgpFEE",
+          "checksum": "49a6785311adbaf7411c21a203493fd7"
+        },
+        {
+          "type": "image",
+          "assetId": "RH72GBR0VH5c",
+          "checksum": "74618dadddc508184510595ed00c5312"
+        },
+        {
+          "type": "image",
+          "assetId": "7DjTO1w3lFUS",
+          "checksum": "c03e103395e97cc727774db530514a96"
+        },
+        {
+          "type": "image",
+          "assetId": "cKyno_GAQiot",
+          "checksum": "a7075ec15ddf3f1ce23ad1851e050871"
+        },
+        {
+          "type": "image",
+          "assetId": "1-ssAlaYnvtT",
+          "checksum": "b3f6ab6659390b19ae838be7777bb038"
+        },
+        {
+          "type": "image",
+          "assetId": "1s1QdXxDapsi",
+          "checksum": "c12ca7f14e23b3c3ab1b9cd8aec98a1f"
+        },
+        {
+          "type": "image",
+          "assetId": "cOf4MvF--JvN",
+          "checksum": "367599c726ea8d39bf0e528fee5fd091"
+        },
+        {
+          "type": "image",
+          "assetId": "dQye1r2pH6Xu",
+          "checksum": "7391025000e67351359bac4898caceae"
+        },
+        {
+          "type": "image",
+          "assetId": "YgrmwUxunQ19",
+          "checksum": "3655a0cc87e08c31e7ecce55d4ad7a59"
+        },
+        {
+          "type": "image",
+          "assetId": "DzzDft-htb6c",
+          "checksum": "1fd96739d3fd59351182915bc4624773"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.331"
+}
